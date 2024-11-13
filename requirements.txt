@@ -1,3 +1,9 @@
 ipykernel
 python-dotenv
 langchain-google-genai
+langchain-groq 
+langchain-huggingface
+langchain-community
+wikipedia
+youtube_search
+faiss-cpu
